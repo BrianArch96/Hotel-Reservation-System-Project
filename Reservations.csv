@@ -1,0 +1,5 @@
+Res Number,Res Name,Res Type,Check-In,Nights Staying,Number of Rooms,Total,Deposit,Cancelation,Room Type,Occupancy(Adult+Child,Breakfast
+0,Brian Archbold,S,21/11/2016,1,1,50.0,0.0,false,Classic Twin,1+1,false
+1,Brian,AP,20/11/2017,2,1,128.25,0.0,false,Classic Twin,1+1,false
+2,Archie,AP,21/3/2017,3,1,224.2,0.0,true,Classic Double,1+0,true
+3,Brian Arch,AP,21/1/2016,1,1,76.0,0.0,false,Executive Twin,1+1,false
